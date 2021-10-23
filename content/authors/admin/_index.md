@@ -1,6 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Mingzhe Dai
+role: Senior Student majoring in geochemistry
+avatar_filename: img_0078-1-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -41,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a senior student in the School of Earth Science and Engineering at Nanjing University! My research interests  
+I am a senior student in the School of Earth Science and Engineering at Nanjing University! My research interests include 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
